@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex items-center justify-between gap-4">
           <div>
             <h1 className="text-2xl font-bold text-gray-900">
-              Welcome back, Tanmay
+              Welcome back, Pratiksh
             </h1>
             <p className="text-sm text-gray-600 mt-1">
               Last updated: 2 hours ago
